@@ -1,0 +1,12 @@
+def user (first_name)
+  puts first_name
+ 
+ end
+
+def user_last (last_name)
+  puts last_name
+end
+
+
+ user "cesar"
+ user_last "urrego"
