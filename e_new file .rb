@@ -6,3 +6,5 @@ puts "hello"
 p "whatever"
 
 print "cesar"
+
+pluts "cesar"
